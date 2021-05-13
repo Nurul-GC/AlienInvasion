@@ -1,6 +1,6 @@
 <div align="center">
 
-![alien-ship](img/alien_ship.jpg)
+![alien-ship](img/main_ship.jpg)
 
 </div>
 
